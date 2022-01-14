@@ -1,9 +1,7 @@
 January 13 2021
 
-- Syllabus 
-- Programminng experience quiz 
-- Sample Lab Report
-- 
+Complete - Lecture Quiz week 1 Jan 20th
+
 
 Why Programming?
 Computer - Programmable machine designed to follow instructions 
@@ -22,11 +20,15 @@ Main Hardware Component Categories:
 
 Centeral Processing Unit (CPU)
 Compromisedd of: 
-	Control Unit - retrives and decodes program instructions coordinates activities of all other parts of computer 
+	Control Unit - retrives and decodes program instructions 
+				 - Coordinates activities of all other parts of computer 
 	Arithmetic & Logic Unit - Hardware optimized for high speed numeric calculation, Hardware designed for true false, yes/no decisions
 
+
 Programs and Programming languages 
-- a 
+- a program is a set of instrucation that the computer follows to perform a task
+- we start with an algorithm, which is a set of well-defined steps
+
 
 
 How to come up with an algorithm 
@@ -36,10 +38,12 @@ How to come up with an algorithm
 
 Machine Language 
 - instructions are binary numbers such as 1001
-- rather than writing programs 
+- rather than writing programs in machine language, programmers use programming languages 
 
 Programs and programming languages 
 - types of languages
+	- low level : used for communication with computer hardware directly. Often writeen in binary machine code (0's and 1's) directly
+	- high level : closer to human language
 
 
 From a High Level Program to an Executable File
