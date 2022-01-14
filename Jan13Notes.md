@@ -30,12 +30,6 @@ Programs and Programming languages
 - we start with an algorithm, which is a set of well-defined steps
 
 
-
-How to come up with an algorithm 
-1. What data do we need to complete the problem 
-2. 
-
-
 Machine Language 
 - instructions are binary numbers such as 1001
 - rather than writing programs in machine language, programmers use programming languages 
@@ -47,8 +41,76 @@ Programs and programming languages
 
 
 From a High Level Program to an Executable File
+1. Create file containing the program with a text editior
+2. Run preprocessor to convert source file directives to source code program statements 
+3. run compiler to convert source program into machine instructions 
+4. run linker to connect hardware-specific code to machine instructions, producing an executable file 
+	- steps b - d are ofter performed by a single command or button click 
+	- Errors detected at any step will prevent execution of following steps 
+Source code -> Preprocessor -> Modified Source Code -> Compiler -> Object code -> Linker -> Executable code
+
+source code - is entered with a text editot by the programmer 
+
+Integrated Development Enviorments (IDEs)
+- an integrated development enviorment, or IDE, combine all the tools needed to write, compile, and debug a program into a single softwaree application
+- examples: Microsoft, Visual Studio, code blocks, turbo c++ explorer, codeWarrior
+
+What is a program made of
+- common elements in a programming language
+	- Keywords
+	- Programmer - Defined Identifiers
+	- Operators
+	- Punctuation
+	- Syntax
+
+Keywords
+- aka reserved words
+- have a special meaning in C++
+- can not be used for any other purpose
+- ex. using, namespace, int, return
+
+Programmer-Defined Identifiers
+- Names made up by the programmer
+- Not part of the C++ language
+- Used to represent various things: variables (Memory locations), funtions, ect
+
+Operators 
+- Used to perform operations on data
+- Many types of operators: Arithmetic ex. + - :: Assignment ex. = 
+- Some operators (>> and << and =)
+
+Syntax
+- the rules of grammer that must be followed when writing a program 
+- controls the use of key words, operators, programmer-defined symbols, and punctuation 
+
+Variables 
+- variable: a named storage locatiion in the computers memory for holding a place of data 
+- e. hours might hold thee number of hours worked 
 
 
+Variable Definition
+- to create a variable in a program you must write a variable definition (also called a variable declaration) (ex. double hours)
+
+Input, Processing, and Output
+- three steps that a program typically performs:
+	1. Gather input data
+		- from keyboards
+		- from files on disk drives
+	2. Process the input data
+	3. Display the results as output
+		- Send it to the screen
+		- write to a file 
+
+Programming Process
+1. clearly define what the program is to do
+2. visualize the program running on the computer
+3. use design tools such as a hierarchy chart, flowcharts, or pseudocode to create a model of the program
+4. check the model for logical errors
+5. type the code, save it, and compile it
+6. correct any errors found during compilation. Repeat steps 5 and 6 as many times as necessary 
+7. run the program with the test data for input
+8. Correct any errors found while running the program. Repeat steps 5 through 8 as many times as necessary 
+9. validate the results of the program
 
 
 
@@ -58,6 +120,37 @@ Input, Processing, Output
 
 1.6
 The Programming Process 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
