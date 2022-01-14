@@ -1,6 +1,6 @@
-January 13 2021
+January 13, 2021
 
-Complete - Lecture Quiz week 1 Jan 20th
+Complete - Lecture Quiz week January 1 20th
 
 
 Why Programming?
@@ -8,7 +8,7 @@ Computer - Programmable machine designed to follow instructions
 
 Program - Instructions in computer memory to make it do something 
 
-Programmer - person who writes instructions (Programs) to make computer perform a task 
+Programmer - Person who writes instructions (Programs) to make the computer perform a task 
 
 
 Main Hardware Component Categories: 
@@ -18,42 +18,42 @@ Main Hardware Component Categories:
 4. Input Devices
 5. Output 
 
-Centeral Processing Unit (CPU)
-Compromisedd of: 
-	Control Unit - retrives and decodes program instructions 
-				 - Coordinates activities of all other parts of computer 
-	Arithmetic & Logic Unit - Hardware optimized for high speed numeric calculation, Hardware designed for true false, yes/no decisions
+Central Processing Unit (CPU)
+Compromised of: 
+	Control Unit - retrieves and decodes program instructions 
+				 - Coordinates activities of all other parts of the computer 
+	Arithmetic & Logic Unit - Hardware optimized for high-speed numeric calculation, Hardware designed for true-false, yes/no decisions
 
 
 Programs and Programming languages 
-- a program is a set of instrucation that the computer follows to perform a task
-- we start with an algorithm, which is a set of well-defined steps
+- A program is a set of instructions that the computer follows to perform a task
+- We start with an algorithm, which is a set of well-defined steps
 
 
 Machine Language 
-- instructions are binary numbers such as 1001
-- rather than writing programs in machine language, programmers use programming languages 
+- Instructions are binary numbers such as 1001
+- Rather than writing programs in machine language, programmers use programming languages 
 
 Programs and programming languages 
-- types of languages
-	- low level : used for communication with computer hardware directly. Often writeen in binary machine code (0's and 1's) directly
-	- high level : closer to human language
+- Types of languages
+	- low level: used for communication with computer hardware directly. Often written in binary machine code (0's and 1's) directly
+	- high level: closer to human language
 
 
-From a High Level Program to an Executable File
-1. Create file containing the program with a text editior
+From a High-Level Program to an Executable File
+1. Create a file containing the program with a text editor
 2. Run preprocessor to convert source file directives to source code program statements 
-3. run compiler to convert source program into machine instructions 
-4. run linker to connect hardware-specific code to machine instructions, producing an executable file 
+3. Run compiler to convert source program into machine instructions 
+4. Run linker to connect hardware-specific code to machine instructions, producing an executable file 
 	- steps b - d are ofter performed by a single command or button click 
-	- Errors detected at any step will prevent execution of following steps 
+	- Errors detected at any step will prevent the execution of the following steps 
 Source code -> Preprocessor -> Modified Source Code -> Compiler -> Object code -> Linker -> Executable code
 
-source code - is entered with a text editot by the programmer 
+source code - is entered with a text editor by the programmer 
 
-Integrated Development Enviorments (IDEs)
-- an integrated development enviorment, or IDE, combine all the tools needed to write, compile, and debug a program into a single softwaree application
-- examples: Microsoft, Visual Studio, code blocks, turbo c++ explorer, codeWarrior
+Integrated Development Environments (IDEs)
+- an integrated development environment, or IDE, combine all the tools needed to write, compile, and debug a program into a single software application
+- examples: Microsoft, Visual Studio, code blocks, turbo c++ explorer, CodeWarrior
 
 What is a program made of
 - common elements in a programming language
@@ -72,7 +72,7 @@ Keywords
 Programmer-Defined Identifiers
 - Names made up by the programmer
 - Not part of the C++ language
-- Used to represent various things: variables (Memory locations), funtions, ect
+- Used to represent various things: variables (Memory locations), functions, etc
 
 Operators 
 - Used to perform operations on data
@@ -80,17 +80,16 @@ Operators
 - Some operators (>> and << and =)
 
 Syntax
-- the rules of grammer that must be followed when writing a program 
-- controls the use of key words, operators, programmer-defined symbols, and punctuation 
+- the rules of grammar that must be followed when writing a program 
+- controls the use of keywords, operators, programmer-defined symbols, and punctuation 
 
 Variables 
-- variable: a named storage locatiion in the computers memory for holding a place of data 
-- e. hours might hold thee number of hours worked 
-
+- variable: a named storage location in the computer's memory for holding a place of data 
+- ex. hours might hold the number of hours worked 
 
 Variable Definition
-- to create a variable in a program you must write a variable definition (also called a variable declaration) (ex. double hours)
-
+- to create a variable in a program, you must write a variable definition (also called a variable declaration) (ex., double hours)
+1.5
 Input, Processing, and Output
 - three steps that a program typically performs:
 	1. Gather input data
@@ -100,26 +99,17 @@ Input, Processing, and Output
 	3. Display the results as output
 		- Send it to the screen
 		- write to a file 
-
-Programming Process
-1. clearly define what the program is to do
-2. visualize the program running on the computer
-3. use design tools such as a hierarchy chart, flowcharts, or pseudocode to create a model of the program
-4. check the model for logical errors
-5. type the code, save it, and compile it
-6. correct any errors found during compilation. Repeat steps 5 and 6 as many times as necessary 
-7. run the program with the test data for input
-8. Correct any errors found while running the program. Repeat steps 5 through 8 as many times as necessary 
-9. validate the results of the program
-
-
-
-1.5
-Input, Processing, Output
-
-
 1.6
-The Programming Process 
+Programming Process
+1. Clearly define what the program is to do
+2. Visualize the program running on the computer
+3. Use design tools such as a hierarchy chart, flowcharts, or pseudocode to create a model of the program
+4. Check the model for logical errors
+5. Type the code, save it, and compile it
+6. Correct any errors found during compilation. Repeat steps 5 and 6 as many times as necessary 
+7. Run the program with the test data for input
+8. Correct any errors found while running the program. Repeat steps 5 through 8 as many times as necessary 
+9. Validate the results of the program
 
 
 
