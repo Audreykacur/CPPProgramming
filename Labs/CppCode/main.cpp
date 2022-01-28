@@ -1,6 +1,14 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int whole;
+    double fractioinal;
+    char letter;
+
+    cout << ("Enter an integer, a double and a character:" );
+    cin >> whole >> fractioinal >> letter;
+
+
+
     return 0;
 }
