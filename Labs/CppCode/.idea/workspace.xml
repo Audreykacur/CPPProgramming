@@ -13,30 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2a6a031-3984-42d9-a2f9-8b04edbb187f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Kacur_Audrey_Homework.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Problem1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Problem2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Problem3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question1 copy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question2 copy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question3 copy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework1/Question3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework2/Number1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework2/Number2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework/Kacur__Audrey__Homework2/Number3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/Questioin4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/Question1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/Question2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/Question3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Kacur_Audrey_Homework.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Problem1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Problem2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Problem3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Question1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Question2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Kacur_Audrey_Homework/Question3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Question1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Question2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/Question3.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
