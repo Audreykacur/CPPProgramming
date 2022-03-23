@@ -5,16 +5,11 @@
 //Hotel Occupancy
 
 /*
-
     //calculates the occupancy rate for a hotel.
 
 
-
-
-
- NOTE: It is traditional that most hotels do not have a thirteenth floor. The loop in this program should skip
-the entire thirteenth iteration.
-
+    NOTE: It is traditional that most hotels do not have a thirteenth floor. The loop in this program should skip
+    the entire thirteenth iteration.
  */
 
 
@@ -23,16 +18,24 @@ using namespace std;
 
 int main()
 {
-    int floors = 0; // holds the value for the number of floors in the hotel
-    int rooms = 0; // holds the value for the numbers of rooms on a floor
-    int occupied = 0; // holds how may rooms on a floor are occupied
-    int totalRooms = 0; //holds the value of how many rooms are in the hotel
-    int totalOccupied = 0; //holds the value of how many rooms are not available
+    int floors = 0;         // holds the value for the number of floors in the hotel
+    int rooms = 0;          // holds the value for the numbers of rooms on a floor
+    int occupied = 0;       // holds how may rooms on a floor are occupied
+    int totalRooms = 0;     //holds the value of how many rooms are in the hotel
+    int totalOccupied = 0;  //holds the value of how many rooms are not available
     cout << "Enter the number of floors the hotel has: "; // asking the user how many floors the hotel has
     cin >> floors;
+    while (floors == 13)
+    {
+        cout << "Enter the number of floors the hotel has: "; // asking the user how many floors the hotel has
+        cin >> floors;
+    }
+
 
     for (int x = 0; x < floors; x++) // A loop then iterates once for each floor.
     {
+        if (x != 12)
+        {
         cout << "Enter the number of rooms on floor " << (x+1) <<": "; //asks the user for the number of rooms on the floor
         cin >> rooms;
         cout << "Enter the number of the rooms on floor " << (x+1) << " are occupied: ";//asks the user how many of them are occupied.
@@ -44,7 +47,8 @@ int main()
             cin >> occupied;
         }
         totalRooms += rooms;
-        totalOccupied += occupied;
+        totalOccupied += occupied;  
+        }
     }
     double percentage = (totalOccupied/(double)totalRooms)*100.0;
 
