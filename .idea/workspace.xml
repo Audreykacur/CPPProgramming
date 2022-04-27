@@ -13,11 +13,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad3776b5-bd81-4184-8890-508ceadfde71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework5/Number1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework5/Number2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework5/Number3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework10/Hw10Q1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework10/Hw10Q2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework10/Hw10Q3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework11/Hw11Q1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework11/Hw11Q2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework9/Hw9Q1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework9/Hw9Q2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework9/Hw9Q3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab10/Question1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab10/Question2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab10/Question3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab11/Question1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab11/Question2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/Lab11/Question3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/CppCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/CppCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +70,20 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homework/Kacur__Audrey__Homework11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Labs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -83,6 +103,24 @@
       <workItem from="1642711803248" duration="283000" />
       <workItem from="1643332291359" duration="487000" />
       <workItem from="1644177239525" duration="16457000" />
+      <workItem from="1645032682858" duration="7148000" />
+      <workItem from="1645137885787" duration="1664000" />
+      <workItem from="1645559332378" duration="8569000" />
+      <workItem from="1645628536887" duration="1707000" />
+      <workItem from="1645635357442" duration="242000" />
+      <workItem from="1645644858673" duration="173000" />
+      <workItem from="1646260421677" duration="19875000" />
+      <workItem from="1647356483444" duration="8044000" />
+      <workItem from="1647871557715" duration="3698000" />
+      <workItem from="1647966495381" duration="11114000" />
+      <workItem from="1648476470649" duration="14302000" />
+      <workItem from="1649169979562" duration="4167000" />
+      <workItem from="1649465650777" duration="20582000" />
+      <workItem from="1649798941129" duration="416000" />
+      <workItem from="1650467666438" duration="15543000" />
+      <workItem from="1650642469989" duration="439000" />
+      <workItem from="1650928083889" duration="77000" />
+      <workItem from="1651076038334" duration="1000" />
     </task>
     <servers />
   </component>
@@ -99,5 +137,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Labs/Lab6/Question4.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Labs/Lab6/Question1.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
